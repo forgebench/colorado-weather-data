@@ -3,7 +3,7 @@
 
 ### Abstract
 This project is a study of the impact of weather on traffic accident severity. The goal was to use machine learning
-algorithms to predict the severity of an accident based on the weather conditions that could be expressly entered from
+algorithms to predict the severity of accidents for the county as a whole based on the weather conditions that could be expressly entered from
 weather predictions for the following day.
 
 The data used in this project is from the
